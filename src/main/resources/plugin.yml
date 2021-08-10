@@ -1,0 +1,6 @@
+name: SimplyAPlayerAnnouncer
+version: ${project.version}
+main: me.justasuki1.simplyplayerannouncer.SimplyPlayerAnnouncer
+api-version: 1.17
+authors: [ JustAsuki1 ]
+description: Simple join and leave system!
